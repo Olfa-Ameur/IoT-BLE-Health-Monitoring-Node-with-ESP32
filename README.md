@@ -63,7 +63,7 @@ Key modules include:
 Provides heart rate measurements through a **readable GATT characteristic**.
 
 Example data:
-BPM: 73
+BPM: 113
 
 ### Servo Control Service
 
